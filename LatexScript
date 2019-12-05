@@ -1,0 +1,4 @@
+\renewcommand\thesection{\arabic{section}}
+ \renewcommand \thesubsection {\arabic{subsection}.\thesection}
+\renewcommand \thesubsubsection {\arabic{subsubsection}.\thesubsection}
+
